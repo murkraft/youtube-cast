@@ -3,7 +3,7 @@ Script for playing youtube videos on chrome cast.
 
 It uses [pychromecast](https://github.com/home-assistant-libs/pychromecast) and [youtube-dl](https://github.com/ytdl-org/youtube-dl).
 
-#Examples:
+# Examples:
 
 List available devices:
 
