@@ -3,14 +3,9 @@
 """
 Requires pychromecast.
 Install with `pip install pychromecast`
-usage: cast.py [-h] -d DEVICE -v VIDEO
-Cast YouTube videos headlessly.
-optional arguments:
-  -h, --help            show this help message and exit
-  -d DEVICE, --device DEVICE
-                        Name of device to cast to. Choose: Living Room
-  -v VIDEO, --video VIDEO
-                        YouTube video ID (part after ?v= in the URL)
+
+Requires youtube-dl.
+Install with `sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl`
 """
 import sys
 import time
