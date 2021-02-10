@@ -9,7 +9,7 @@ List available devices:
 
     youtube-cast list
 
-Plays three shuffled videos from channel https://www.youtube.com/channel/**UCJOyipX4XAxoFpdoy14W8Qg** on ChromeTV:
+Plays three shuffled videos from channel ht<span>tps://ww</span>w.youtube.com/channel/**UCJOyipX4XAxoFpdoy14W8Qg** on ChromeTV:
 
     youtube-cast play ChromeTV UCJOyipX4XAxoFpdoy14W8Qg -L3 -S
 
